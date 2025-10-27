@@ -1,6 +1,3 @@
-# Saved models
-/saved*
-*.pth
 /RecBole/dataset
 .vscode/
 .idea/
